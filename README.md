@@ -17,8 +17,8 @@ The test suite includes three functional tests:
 ## Running Tests
 
 ```bash
-# Install dependencies first
-# Then run your test suite
+# npm i
+# npm run demoTest
 ```
 
 ## Notes
